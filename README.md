@@ -1,1 +1,3 @@
 # sql_deforestation
+
+This project describes about a mission to reduce deforestation around the world & raise awareness about the same. It is in reference to a case study for an organisation called ForestQuery. SQL skills - created views, queried the data and used joins in order to report some of the important findings/insights with respect to the countries and regions have the most significant forest area, both in terms of amount and percent of total area, countries and regions around the world have shrunken forests size, and also countries and regions have the most significant forest area, both in terms of amount and percent of total area and many more. The SQL queries can be found in the pdf report. 
